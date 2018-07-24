@@ -1,0 +1,10 @@
+H:\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+H:\Гужов\TransPi\ClassLibrary\bin\Debug\ClassLibrary.dll
+H:\Гужов\TransPi\ClassLibrary\bin\Debug\ClassLibrary.pdb
+H:\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.dll
+H:\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Учеба\Гужов\TransPi\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Учеба\Гужов\TransPi\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Учеба\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Учеба\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Учеба\Гужов\TransPi\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

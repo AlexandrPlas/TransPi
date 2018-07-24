@@ -1,0 +1,48 @@
+D:\Учеба\9 Семестр\TransPi\TransPi\bin\Debug\TransPi.exe.config
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.csprojResolveAssemblyReference.cache
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.Properties.Resources.resources
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.csproj.GenerateResource.Cache
+D:\Учеба\9 Семестр\TransPi\TransPi\bin\Debug\TransPi.exe
+D:\Учеба\9 Семестр\TransPi\TransPi\bin\Debug\TransPi.pdb
+D:\Учеба\9 Семестр\TransPi\TransPi\bin\Debug\ZedGraph.dll
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.MainForm.resources
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.exe
+D:\Учеба\9 Семестр\TransPi\TransPi\obj\Debug\TransPi.pdb
+H:\Гужов\TransPi\TransPi\bin\Debug\TransPi.exe.config
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.exe
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.pdb
+H:\Гужов\TransPi\TransPi\bin\Debug\TransPi.exe
+H:\Гужов\TransPi\TransPi\bin\Debug\TransPi.pdb
+H:\Гужов\TransPi\TransPi\bin\Debug\ZedGraph.dll
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.csprojResolveAssemblyReference.cache
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.MainForm.resources
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.Properties.Resources.resources
+H:\Гужов\TransPi\TransPi\obj\Debug\TransPi.csproj.GenerateResource.Cache
+H:\Гужов\TransPi\TransPi\bin\Debug\ClassLibrary.dll
+H:\Гужов\TransPi\TransPi\bin\Debug\ClassLibrary.pdb
+D:\Программы\TransPi\TransPi\bin\Debug\TransPi.exe.config
+D:\Программы\TransPi\TransPi\obj\Debug\TransPi.exe
+D:\Программы\TransPi\TransPi\obj\Debug\TransPi.pdb
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.csprojResolveAssemblyReference.cache
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.MainForm.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.Forms.GenerateSin.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.Forms.Signal.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.Properties.Resources.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.csproj.GenerateResource.Cache
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\TransPi.exe.config
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\TransPi.exe
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\TransPi.pdb
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Canon.Eos.Framework.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\ClassLibrary.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Emgu.CV.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Emgu.CV.UI.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Emgu.Util.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Gwen.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\Gwen.Renderer.OpenTK.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\OpenTK.dll
+D:\Учеба\Гужов\TransPi\TransPi\bin\Debug\ClassLibrary.pdb
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.exe
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.pdb
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.Forms.GenSin2.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.ParamDialogForm.resources
+D:\Учеба\Гужов\TransPi\TransPi\obj\Debug\TransPi.Forms.RotateForm.resources

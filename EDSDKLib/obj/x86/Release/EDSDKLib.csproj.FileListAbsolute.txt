@@ -1,0 +1,6 @@
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\obj\x86\Release\EDSDKLib.csprojResolveAssemblyReference.cache
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\Projects\Microscop\LibraryCanonSDK\CanonSDKTutorial\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
